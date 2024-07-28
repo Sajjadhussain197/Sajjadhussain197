@@ -1,7 +1,6 @@
-- 👋 Hi, I’m MERN Stack Developer
-- 🌱 working as Web developer at codedeskstudio
-- 💞️  Built Multiple Websites for Several businesses
-- 📫 +923349582197 whatsapp
+- 👋  Hi, I’m a MERN Stack Developer
+- 🌱  Working as Web developer at codedeskstudio as Next.js Developer
+- 🚀  Built Multiple Websites as freelancer
 
 <!---
 Sajjadhussain197/Sajjadhussain197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
