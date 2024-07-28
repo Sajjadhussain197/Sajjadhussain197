@@ -1,4 +1,4 @@
-  ** - Hi People. Welcome To Sajjad Hussain's Github. 👋
+  ** Hi People. Welcome To Sajjad Hussain's Github. 👋
 Enthusiastic programmer in the world of Developers
 
 Learn About Sajjad Hussain**
