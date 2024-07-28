@@ -5,12 +5,10 @@
 
 **Learn About Sajjad Hussain**
 
-![Profile Picture](https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg)
-
 
 ---
 
-
+# Work experiance
 - 👋  Hi, I’m a MERN Stack Developer
 - 🌱  Working as Web developer at codedeskstudio as Next.js Developer
 - 🚀  Built Multiple Websites as freelancer
