@@ -1,8 +1,14 @@
+   - Hi People. Welcome To Sajjad Hussain's Github. 👋
+  # Enthousiastic programmer in the world of Developers🙋💃
+
+  ## Learn About Sajjad Hussain
+
+
 - 👋  Hi, I’m a MERN Stack Developer
 - 🌱  Working as Web developer at codedeskstudio as Next.js Developer
 - 🚀  Built Multiple Websites as freelancer
 
-# What can i do?#
+# What can i do?
 - 🌱 I’m Full Time React JS developer.
 - 🌱 Learning Next JS and Typescript to enhance my skillset.
 - 💪 My strength in rapid responsive Designing.
