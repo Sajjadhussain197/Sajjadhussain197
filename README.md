@@ -2,8 +2,8 @@
 - 🌱  Working as Web developer at codedeskstudio as Next.js Developer
 - 🚀  Built Multiple Websites as freelancer
 
- #What can i do?#
--🌱 I’m Full Time React JS developer.
+# What can i do?#
+- 🌱 I’m Full Time React JS developer.
 - 🌱 Learning Next JS and Typescript to enhance my skillset.
 - 💪 My strength in rapid responsive Designing.
 - 🎨 I can design amazing layout using Bulma, BootStrap, tailwind Styled Componenets Sass.
