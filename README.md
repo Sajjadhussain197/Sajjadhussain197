@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sajjadhussain197
-- 👀 I’m interested to play with IT tools 
-- 🌱 I’m currently learning Web development and Cybersecurity
-- 💞️ I’m looking to collaborate with IT community
+- 👋 Hi, I’m MERN Stack Developer
+- 🌱 working as Web developer at codedeskstudio
+- 💞️  Built Multiple Websites for Several businesses
 - 📫 +923349582197 whatsapp
 
 <!---
