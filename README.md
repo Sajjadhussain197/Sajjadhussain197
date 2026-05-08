@@ -1,29 +1,68 @@
-**Hi People. Welcome To Sajjad Hussain's Github. 👋**  
+# Hi, I'm Sajjad Hussain 
 
-**Enthusiastic programmer in the world of Developers** 
+**Senior Full Stack Engineer · MERN & JAM Stack · 5+ Years**
 
+Lahore, Pakistan · sajjadhussain9582@gmail.com
 
-**Learn About Sajjad Hussain**
+---
 
+### 🚀 What I Do
 
+- Build scalable **full-stack web apps** with MERN, Next.js & JAM stack
+- Architect **AI-powered backends** with RAG pipelines, pgvector & FastAPI
+- Implement **real-time** features via WebSockets & Socket.io for smooth paymeent and map
+- Integrate cloud services — **AWS S3, Docker, ECR, EC2 Amplify, RDS, AppRunner**
+- Deliver secure auth systems using **JWT & OAuth better Auth, NextAuth**
+- Third party integration
+- Workflows autmation
 
+---
 
-# Work experiance
-- 👋  Hi, I’m a MERN Stack Developer
-- 🌱  Working as Web developer at codedeskstudio as Next.js Developer
-- 🚀  Built Multiple Websites as freelancer
+### 🛠️ Tech Stack
 
-# What can i do?
-- 🌱 I’m Full Time React JS developer.
-- 🌱 Learning Next JS and Typescript to enhance my skillset.
-- 💪 My strength in rapid responsive Designing.
-- 🎨 I can design amazing layout using Bulma, BootStrap, tailwind Styled Componenets Sass.
-- 👯 My skills are in designing, development SEO Optimization and Web Scrapping.
-- 📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
-- 🧑💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux and JSON coding.
-- 🔨 Convert graphic designs to usable web images using React JS.
+**Frontend** — React.js · Next.js · TypeScript · Tailwind CSS · Shadcn · Framer Motion · Redux · Zustand · MUI
 
-<!---
-Sajjadhussain197/Sajjadhussain197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Backend** — Node.js · Express.js · Nest.js · Python · FastAPI · REST APIs · WebSockets
+
+**AI & Data** — RAG · pgvector · AI Integrations
+
+**Database** — PostgreSQL · MongoDB · Prisma · Supabase · Firebase · Appwrite
+
+**DevOps & Tools** — AWS · Docker · CI/CD · Vercel · Git · Stripe · Sanity · Agile  · Render · Railway 
+
+---
+
+### 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Senior Software Engineer | Nifty Code | Dec 2023 – Present |
+| MERN Stack Developer | D.Dynamics | Nov 2022 – Nov 2023 |
+| Frontend Developer | CodeDeskStudio | Jun 2020 – Nov 2022 |
+
+---
+
+### 📌 Currently
+
+- 🏢 **Senior Software Engineer** @ Nifty Code
+- 🤖 Working with **AI/RAG pipelines** & modern full-stack architecture
+- 🌱 Deep-diving into **SaaS architecture** & AI-integrated systems
+- 🤝 Open to exciting **remote & freelance** opportunities
+
+---
+
+### 🎓 Education
+
+**BSc Computer Science** — COMSATS University, Lahore (2018–2022)
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sajjad%20Hussain-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sajjadhussain197)
+[![GitHub](https://img.shields.io/badge/GitHub-Sajjadhussain197-181717?style=flat&logo=github)](https://github.com/Sajjadhussain197)
+[![Email](https://img.shields.io/badge/Email-sajjadhussain9582@gmail.com-EA4335?style=flat&logo=gmail)](mailto:sajjadhussain9582@gmail.com)
+
+---
+
+*Building performant, scalable, and intelligent web applications.*
